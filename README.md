@@ -3,11 +3,12 @@ I'm a Pre-final year Computer science and Engineering student passionate about w
 - 🎓 Currently studying at Jerusalem College of Engineering
 - 🌱 I’m currently learning **full stack devlopement**
 ---
+
 ## 💡Skills
 -💻 Programming Languages:
-Java • C++
+ • Java
 -🧰 Tools & Platforms:
-Git • GitHub • VS Code • IntelliJ IDE
+ • Git • GitHub • VS Code • IntelliJ IDEA
 
 ---
 ## Social
